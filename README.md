@@ -1,8 +1,10 @@
 # house-server
 
+api server for [HouseRadar](https://github.com/yrq110/HouseRadar).
+
 ## Requirements
-* Python 2.7
-* Flask
+* python 2.7
+* flask
 * pymongo
 * requests
 * gunicorn
